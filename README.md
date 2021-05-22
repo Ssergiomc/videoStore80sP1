@@ -3,7 +3,7 @@
 
 <h2>Online Video Store with 80's style</h2>
 
-<h3>Technologies</h3>
+<h3>- Technologies</h3>
 
 <h4>Front</h4>
 
@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010" alt="Postman tag"></img>
 <img src="https://img.shields.io/badge/The_Movie_Database-01D277?style=for-the-badge&logo=The%20Movie%20Database&logoColor=white&labelColor=101010" alt="The Movie Database tag"></img>
 
-<h3>Deploy on line</h3>
+<h3>- Deploy on line</h3>
 <a href="https://ssergiomc.github.io/videoStore80sP1/">Visit me</p>
 
